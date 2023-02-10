@@ -36,6 +36,8 @@ A proposta do curso é o desenvolvimento do Alurinha, um gerenciador de cursos o
 
 ### Aula 01: Preparando o ambiente
 
+<hr>
+
 ### Aula 02: Ajustando o cabeçalho
 - criando e importanto o arquivo flexbox.css:
 
@@ -69,4 +71,13 @@ A proposta do curso é o desenvolvimento do Alurinha, um gerenciador de cursos o
     - permite os elementos ficarem um do lado do outro, permite espaçar os elementos de forma mais intuitiva e sem ter que fazer cálculos. Além disso ele também permite alinhar os elementos verticalmente de forma fácil.
     - pode ser um pouco mais complicado de usar tendo em vista que existem diversas propriedades que vem junto da especificação flexible box, todavia tudo isso foi feito para justamente melhorar nosso código.
 
-### Aula 03:
+<hr>
+
+### Aula 03: Arrumando o footer
+
+- alinhando o ul (itens) e o form (formulário)!
+- ajustando o course map.
+
+<hr>
+
+### Aula 04: 

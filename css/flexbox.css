@@ -1,4 +1,4 @@
-/* ajustando o cabeçalho */
+/* header */
 
 .cabecalhoPrincipal .container {
   display: flex;
@@ -7,5 +7,34 @@
 }
 
 .cabecalhoPrincipal-nav {
+  display: flex;
+}
+
+/* footer */
+.rodapePrincipal-navMap-list {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  height: 260px;
+}
+
+.rodapePrincipal-patrocinadores .container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.rodapePrincipal-patrocinadores-list {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 70%;
+  margin-right: 5% ;
+}
+
+.rodapePrincipal-contatoForm {
+  width: 25%;
+}
+
+.rodapePrincipal-contatoForm-fieldset {
   display: flex;
 }
