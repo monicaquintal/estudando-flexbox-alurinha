@@ -80,4 +80,7 @@ A proposta do curso é o desenvolvimento do Alurinha, um gerenciador de cursos o
 
 <hr>
 
-### Aula 04: 
+### Aula 04: Grid principal e limitações do Flexbox
+
+- organizando o Mapa de Cursos;
+- aplicação de nth-child() para definição da última linha.
