@@ -84,3 +84,30 @@ A proposta do curso é o desenvolvimento do Alurinha, um gerenciador de cursos o
 
 - organizando o Mapa de Cursos;
 - aplicação de nth-child() para definição da última linha.
+
+### Aula 05: Ajustando para mobile
+
+Para saber quais propriedades são aplicadas ao container e aos flex items, [acessar a documentação](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)! 
+Temos:
+
+- container:
+~~~
+display: flex
+flex-direction
+justify-content
+flex-wrap
+flex-flow
+align-items
+align-content
+~~~
+
+- flex item:
+
+~~~
+order
+flex-grow
+flex-shrink
+flex-basis
+flex
+align-self
+~~~
